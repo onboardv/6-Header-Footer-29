@@ -1,0 +1,1 @@
+29. Header, footer, div tags to be used to display a HTML page having contents in different positions.
